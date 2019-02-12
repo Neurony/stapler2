@@ -1,0 +1,7 @@
+{
+  "providers": [
+    "Hollogram\Stapler\StaplerServiceProvider",
+  ],
+  "aliases" : [
+  ]
+}
